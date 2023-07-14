@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [HAPS Research Group](https://ut-hapsrg.studio.site)
 
-- 👯 I’m currently studying in [Rinoie Imamura Lab @ UTokyo AeroAstro](http://park.itc.u-tokyo.ac.jp/rinoielab/english/index.html)
+- 👯 I’m currently studying in [Rinoie & Imamura Lab @ UTokyo AeroAstro](http://park.itc.u-tokyo.ac.jp/rinoielab/english/index.html)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiroWW&theme=nord_dark)
 
