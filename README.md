@@ -1,4 +1,3 @@
-<h1 align="left">Hi 👋, I'm Hiroaki Fujiwara</h1>
 
 <img width="700px" src = "/images/img_1090.jpg">
 - 🔭 I’m currently working on [HAPS Research Group](https://ut-hapsrg.studio.site)
