@@ -1,9 +1,7 @@
 
-<img width="700px" src = "/images/img_1090.jpg">
 
-- 🔭 I’m currently working on [HAPS Research Group](https://ut-hapsrg.studio.site)
 
-- 👯 I’m currently studying in [Rinoie & Imamura Lab @ UTokyo AeroAstro](http://park.itc.u-tokyo.ac.jp/rinoielab/english/index.html)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiroWW&theme=nord_dark)
 
@@ -24,3 +22,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1024px-Fortran_logo.svg.png" alt="fortran" width="40" height="40"/>
 </a> 
 
+- Working on : [HAPS Research Group](https://ut-hapsrg.studio.site)
+
+-  Studying in : [Rinoie & Imamura Lab @ UTokyo AeroAstro](http://park.itc.u-tokyo.ac.jp/rinoielab/english/index.html)
