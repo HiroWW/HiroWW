@@ -10,7 +10,7 @@
 <img alt="Hiroaki's GitHub stats" height="165px" src="https://github-readme-stats-orpin-ten-38.vercel.app/api/top-langs/?username=HiroWW&layout=compact&theme=nord" />
 </p>
 -->
-First grade in Master course  at UTokyo aeroastro 🇯🇵
+First grade in Master course  at UTokyo AeroAstro 🇯🇵
 
 Lab : [Rinoie & Imamura Lab @ UTokyo AeroAstro](http://park.itc.u-tokyo.ac.jp/rinoielab/english/index.html)
 
