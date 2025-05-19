@@ -8,7 +8,7 @@
 -->
 Second grade in Master course  at UTokyo AeroAstro 🇯🇵
 
-Lab : [Rinoie & Imamura Lab @ UTokyo AeroAstro](http://park.itc.u-tokyo.ac.jp/rinoielab/english/index.html)
+Lab : [Imamura Lab @ UTokyo AeroAstro](http://park.itc.u-tokyo.ac.jp/rinoielab/english/index.html)
 
 Project Manager(-2024) / Engineer :  [HAPS Research Group](https://ut-hapsrg.studio.site)
 
